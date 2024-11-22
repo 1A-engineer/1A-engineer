@@ -5,4 +5,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
-<img align="right" height="150" src="https://media.tenor.com/path-to-your-gif.gif" alt="Cool GIF" />
+<img align="right" height="150" src="https://media.tenor.com/example-gif-url.gif" alt="Cool GIF" />
