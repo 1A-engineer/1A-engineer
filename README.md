@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/batman-cape-darkness-solo-thswessel-gif-14510993171327393706" alt="Batman GIF" />
+<img align="right" height="150" src="https://c.tenor.com/example-gif-url.gif" />
+
+
 
 
 ###
