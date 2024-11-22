@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/batman-cape-darkness-solo-thswessel-gif-14510993171327393706)"  />
+<img align="right" height="150" src="https://tenor.com/view/batman-cape-darkness-solo-thswessel-gif-14510993171327393706" alt="Batman GIF" />
+
 
 ###
 
